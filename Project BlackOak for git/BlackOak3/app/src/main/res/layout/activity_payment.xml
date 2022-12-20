@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ABE9E4E4"
+    tools:context=".PaymentActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_55sdp"
+        android:id="@+id/ProfileCardVIew1" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_35sdp"
+            android:fontFamily="@font/inria_serif_bold"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="Payment"
+            android:textColor="#000"
+            android:textSize="@dimen/_20sdp" />
+    </androidx.cardview.widget.CardView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pay With Debit Card"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_marginTop="90dp"
+        android:layout_marginLeft="10dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Card Detail"
+        android:layout_marginTop="130dp"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_marginLeft="10sp"
+        />
+
+    <TextView
+        android:id="@+id/cardNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="170dp"
+        android:text="Card Number"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginRight="10dp"
+        android:hint="Card Number"
+        android:background="@drawable/customebutton04"
+        android:layout_below="@+id/cardNo"
+        android:inputType="number"
+        android:minHeight="48dp"
+        android:padding="5dp"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/expireDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="250dp"
+            android:text="Expire date "
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <EditText
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/expireDate"
+            android:layout_marginLeft="-103dp"
+            android:layout_marginTop="290dp"
+            android:layout_marginRight="10dp"
+            android:hint="Expire Date"
+            android:inputType="date"
+            android:background="@drawable/customebutton04"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/cvv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80sp"
+            android:layout_marginTop="250dp"
+            android:text="CVV "
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <EditText
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cvv"
+            android:layout_marginLeft="-45dp"
+            android:layout_marginTop="290dp"
+            android:layout_marginRight="10dp"
+            android:hint="CVV"
+            android:background="@drawable/customebutton04"
+            android:inputType="number"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/cardname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:layout_marginTop="370dp"
+        android:text="Card Holder Name"
+        android:textColor="#000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cardname"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginRight="10dp"
+        android:hint="Card Number"
+        android:background="@drawable/customebutton04"
+        android:minHeight="48dp"
+        android:padding="5dp"
+        android:textSize="15sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custome_button_3"
+        android:layout_marginEnd="10dp"
+        android:textColor="#fff"
+        android:layout_marginBottom="10dp"
+        android:text="PAY"
+        android:textSize="25sp" />
+
+
+</RelativeLayout>

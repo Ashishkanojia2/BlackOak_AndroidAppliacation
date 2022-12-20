@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_Home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/nav_Notify"
+        android:title="Notification"
+        android:icon="@drawable/ic_notify"
+        />
+
+    <item
+        android:id="@+id/nav_cat"
+        android:title="@string/category"
+        android:icon="@drawable/ic_cat"
+        />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Cart"
+        android:icon="@drawable/ic_cart"
+        />
+
+    <item
+        android:id="@+id/nav_cart"
+
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"
+        />
+
+
+
+
+
+</menu>

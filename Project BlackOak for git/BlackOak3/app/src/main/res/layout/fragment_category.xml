@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CategoryFragment">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Product Category"
+    android:textStyle="bold"
+    android:textSize="@dimen/_15sdp"
+    android:textColor="#646161"
+    android:paddingLeft="10dp"
+
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="____________________"
+        android:textSize="@dimen/_18sdp"
+        android:textColor="#646161"
+        android:textStyle="bold"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="-5dp"
+
+        />
+    <!--First Line-->
+    <ImageView
+        android:layout_width="99dp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/a06" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chair"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_97sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_33sdp"
+
+        />
+
+    <ImageView
+        android:layout_width="@dimen/_73sdp"
+        android:layout_height="@dimen/_73sdp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="110dp"
+        android:src="@drawable/a10"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Water Bottle"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_97sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_85sdp"
+
+        />
+
+    <ImageView
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="35dp"
+        android:src="@drawable/a12"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="16dp"
+        android:layout_marginLeft="@dimen/_175sdp"
+        android:layout_marginTop="@dimen/_97sdp"
+        android:text="Table"
+        android:textColor="#000"
+        android:textSize="@dimen/_11sdp"
+
+        />
+    <ImageView
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="310dp"
+        android:src="@drawable/a09"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lamp"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_97sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_245sdp"
+
+        />
+    <!--second Line -->
+    <ImageView
+        android:layout_width="101dp"
+        android:layout_height="@dimen/_75sdp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginTop="@dimen/_113sdp"
+        android:src="@drawable/a03" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Table"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_185sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_33sdp"
+
+        />
+
+    <ImageView
+        android:layout_width="103dp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="@dimen/_113sdp"
+        android:src="@drawable/a02" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sofa"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_185sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_105sdp"
+
+        />
+    <ImageView
+        android:layout_width="@dimen/_75sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginTop="@dimen/_113sdp"
+        android:layout_marginLeft="210dp"
+        android:src="@drawable/a12"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Study Table"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_185sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_160sdp"
+
+        />
+    <ImageView
+        android:layout_width="@dimen/_75sdp"
+        android:layout_height="@dimen/_75sdp"
+        android:layout_marginTop="@dimen/_116sdp"
+        android:layout_marginLeft="310dp"
+        android:src="@drawable/a11"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wooden Chair"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_185sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_227sdp"
+
+        />
+    <!--third Line-->
+    <ImageView
+        android:layout_width="@dimen/_75sdp"
+        android:layout_height="@dimen/_85sdp"
+        android:layout_marginTop="@dimen/_193sdp"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/a08"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dressing Table"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_18sdp"/>
+
+    <ImageView
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_marginTop="@dimen/_205sdp"
+        android:layout_marginLeft="110dp"
+        android:src="@drawable/a07"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clock"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_105sdp"/>
+
+    <ImageView
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_75sdp"
+        android:layout_marginLeft="210dp"
+        android:layout_marginTop="@dimen/_202sdp"
+        android:src="@drawable/a05"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CupBoard"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_164sdp"/>
+
+    <ImageView
+        android:layout_width="@dimen/_75sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginTop="@dimen/_198sdp"
+        android:layout_marginLeft="310dp"
+        android:src="@drawable/a04"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wooden Spoon"
+        android:textSize="@dimen/_11sdp"
+        android:layout_marginTop="@dimen/_270sdp"
+        android:textColor="#000"
+        android:layout_marginLeft="@dimen/_223sdp"/>
+
+    <!--Demanding Product-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Demanding Product"
+        android:textStyle="bold"
+        android:textSize="@dimen/_15ssp"
+        android:textColor="#646161"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="@dimen/_295sdp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="___________________"
+        android:textSize="@dimen/_18ssp"
+        android:textColor="#646161"
+        android:textStyle="bold"
+        android:layout_marginLeft="@dimen/_145sdp"
+        android:layout_marginTop="@dimen/_288sdp"
+
+        />
+
+    <ImageView
+        android:layout_width="@dimen/_75sdp"
+        android:layout_height="@dimen/_65sdp"
+        android:layout_marginTop="@dimen/_320sdp"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/a03"
+        />
+
+    <ImageView
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_75sdp"
+        android:layout_marginTop="@dimen/_317sdp"
+        android:layout_marginLeft="110dp"
+        android:src="@drawable/a02"
+        />
+
+    <ImageView
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="@dimen/_85sdp"
+        android:layout_marginTop="@dimen/_315sdp"
+        android:layout_marginLeft="210dp"
+        android:src="@drawable/a09"
+
+        />
+    <ImageView
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginTop="@dimen/_320sdp"
+        android:layout_marginLeft="310dp"
+        android:src="@drawable/a12"
+        />
+    <!--second Line -->
+    <ImageView
+        android:layout_width="@dimen/_78sdp"
+        android:layout_height="@dimen/_68sdp"
+        android:layout_marginTop="@dimen/_390sdp"
+        android:layout_marginLeft="15dp"
+        android:src="@drawable/a11"
+        />
+
+    <ImageView
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_70sdp"
+        android:layout_marginTop="@dimen/_390sdp"
+        android:layout_marginLeft="110dp"
+        android:src="@drawable/a10"
+        />
+
+
+</FrameLayout>

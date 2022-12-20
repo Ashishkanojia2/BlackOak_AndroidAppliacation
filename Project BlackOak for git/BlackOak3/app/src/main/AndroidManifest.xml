@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.blackoak"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BlackOak"
+        tools:ignore="DataExtractionRules"
+        tools:targetApi="31">
+        <activity
+            android:name=".activity_sale_04"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity_sale_03"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity_sale02"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SaleActivity"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Msp_image_03"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Msp_image_02"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Log_in_Activity"
+            android:exported="false"
+            android:theme="@style/Theme.ToolBarActivity" />
+        <activity
+            android:name=".Sign_up_Activity"
+            android:exported="false"
+            android:theme="@style/Theme.ToolBarActivity" />
+        <activity
+            android:name=".MSP_image_01"
+            android:exported="false"
+            android:theme="@style/Theme.ToolBarActivity" /> <!-- android:theme="@android:style/Theme.NoTitleBar.Fullscreen" -->
+        <activity
+            android:name=".Search_bar"
+            android:exported="false"
+            android:theme="@style/Theme.ToolBarActivity" />
+        <activity
+            android:name=".ImageActivity01"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".H_Card_06_Home"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".H_Card_05_Home"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".H_Card_04_Home"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".H_Card_03_Home"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".H_Card_02_Home"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".H_Card_01_Home"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginUserAdmin"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PaymentActivity"
+            android:theme="@style/Theme.ToolBarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.ToolBarActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

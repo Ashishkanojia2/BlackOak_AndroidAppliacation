@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BlackOak</string>
+    <string name="category">Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="BlackChair">A wooden Black chair with fully shinning</string>
+    <string name="Mirror">Designing Mirror which is look like Ancient Period</string>
+    <string name="cupboard">Wooden Cupboard with fully furnished to manage your cloths.</string>
+    <string name="bed">Fully Comfortable Double Size bed with Storage.</string>
+    <string name="wooden_chair">Accent Chair with Fully Comfortable and Relaxable</string>
+    <string name="dinner">Dinner Table With Chair</string>
+    <string name="fun01">Furniture refers to movable objects intended to support various human activities such as seating (e.g., stools, chairs, and sofas), eating (tables), storing items, eating and/or working with an item, and sleeping</string>
+    <string name="warranty">1 Year Warranty Against Manufacturing Defect.</string>
+
+    <style name="roundImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="color">#CED8D8D8</item>
+
+    </style>
+</resources>

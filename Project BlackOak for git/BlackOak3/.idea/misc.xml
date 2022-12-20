@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.211" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/custome_button_3.xml" value="0.164" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/custome_button_bd_2.xml" value="0.145" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/custome_button_bg.xml" value="0.2585" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/customebutton04.xml" value="0.247" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/ic_cart.xml" value="0.2585" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/ic_home.xml" value="0.2585" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.211" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/image_circle_background.xml" value="0.247" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/drawable/text_round.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout-v31/fragment_home.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_hcard01_home.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_hcard02_home.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_hcard03_home.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_hcard04_home.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_hcard05_home.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_hcard06_home.xml" value="0.2390625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_image01.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_log_in.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_login_user_admin.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_main.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_msp_image01.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_msp_image02.xml" value="0.2390625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_msp_image03.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_payment.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_sale.xml" value="0.152" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_sale02.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_sale03.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_sale04.xml" value="0.2390625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_search_bar.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_sign_up.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/fragment_cart.xml" value="0.2390625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/fragment_cartproduct.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/fragment_category.xml" value="0.4" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/fragment_notify.xml" value="0.30916030534351147" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/fragment_profile.xml" value="0.2390625" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/rc_item.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/layout/text_round.xml" value="0.1875" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/menu/nav_items.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.123" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/xml/backup_rules.xml" value="0.253125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/BlackOak3/app/src/main/res/xml/data_extraction_rules.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
